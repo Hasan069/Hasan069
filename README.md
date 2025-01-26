@@ -10,26 +10,18 @@
 ## 🛠️ Technologies & Tools
 
 - **Front-end:** 
-  - **HTML5** ![HTML5](https://skillicons.dev/icons?i=html)
+  ![HTML5](https://skillicons.dev/icons?i=html,css,js,typescript,tailwind,react,nextjs)
 
-  - **CSS3** ![CSS3](https://skillicons.dev/icons?i=css)
-  - **JavaScript (ES6+)** ![JavaScript](https://skillicons.dev/icons?i=js)
-  - **TypeScript** ![TypeScript](https://skillicons.dev/icons?i=typescript)
-  - **TailwindCSS** ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-  - **React** ![React](https://skillicons.dev/icons?i=react)
-  - **Next.js** ![Nextjs](https://skillicons.dev/icons?i=next)
 - **Back-end:**
-  - **Node.js** ![Node.js](https://skillicons.dev/icons?i=nodejs)
-  - **Express.js** ![Express.js](https://skillicons.dev/icons?i=express)
-  - **Postman** ![Postman](https://skillicons.dev/icons?i=postman)
+   ![Node.js](https://skillicons.dev/icons?i=nodejs,express,postman)
 - **Database:**
-  - **MongoDB** ![MongoDB](https://skillicons.dev/icons?i=mongo)
-  - **MySQL** ![MongoDB](https://skillicons.dev/icons?i=mysql)
+  ![MongoDB](https://skillicons.dev/icons?i=mongo,mysql)
+
 - **Version Control:** 
-  - **Git** ![Git](https://skillicons.dev/icons?i=git)
-  - **GitHub** ![GitHub](https://skillicons.dev/icons?i=github)
+   ![Git](https://skillicons.dev/icons?i=git,github)
+  
 - **Deployment:**
-  - **Vercel** ![Vercel](https://skillicons.dev/icons?i=vercel)
+   ![Vercel](https://skillicons.dev/icons?i=vercel)
 
 # GitHub Stats:
 ![Hasan's Github Stats](https://github-readme-stats.vercel.app/api?username=hasan069&show_icons=true&theme=apprentice  )
