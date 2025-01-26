@@ -10,32 +10,26 @@
 ## 🛠️ Technologies & Tools
 
 - **Front-end:** 
-  - **HTML5** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  - **CSS3** ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  - **JavaScript (ES6+)** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  - **TypeScript** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-  - **TailwindCSS** ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-  - **ShadCN** ![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=flat&logo=shadcn&logoColor=white)
-  - **React** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-  - **Redux** ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+  - **HTML5** ![HTML5](https://skillicons.dev/icons?i=html)
+
+  - **CSS3** ![CSS3](https://skillicons.dev/icons?i=css)
+  - **JavaScript (ES6+)** ![JavaScript](https://skillicons.dev/icons?i=js)
+  - **TypeScript** ![TypeScript](https://skillicons.dev/icons?i=typescript)
+  - **TailwindCSS** ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+  - **React** ![React](https://skillicons.dev/icons?i=react)
+  - **Next.js** ![Nextjs](https://skillicons.dev/icons?i=next)
 - **Back-end:**
-  - **Node.js** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-  - **Express.js** ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+  - **Node.js** ![Node.js](https://skillicons.dev/icons?i=nodejs)
+  - **Express.js** ![Express.js](https://skillicons.dev/icons?i=express)
+  - **Postman** ![Postman](https://skillicons.dev/icons?i=postman)
 - **Database:**
-  - **MongoDB** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  - **MongoDB** ![MongoDB](https://skillicons.dev/icons?i=mongo)
+  - **MySQL** ![MongoDB](https://skillicons.dev/icons?i=mysql)
 - **Version Control:** 
-  - **Git** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  - **GitHub** ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+  - **Git** ![Git](https://skillicons.dev/icons?i=git)
+  - **GitHub** ![GitHub](https://skillicons.dev/icons?i=github)
 - **Deployment:**
-  - **Netlify** ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-  - **Vercel** ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-# 📊 GitHub Stats:
-![Hasan's Github Stats](https://github-readme-stats.vercel.app/api?username=hasan069&show_icons=true&theme=transparent)
+  - **Vercel** ![Vercel](https://skillicons.dev/icons?i=vercel)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
----
-[![](https://visitcount.itsvg.in/api?id=hasan069&icon=2&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# GitHub Stats:
+![Hasan's Github Stats](https://github-readme-stats.vercel.app/api?username=hasan069&show_icons=true&theme=apprentice  )
