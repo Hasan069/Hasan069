@@ -9,7 +9,7 @@
 
 ## 🛠️ Technologies & Tools
 
-- **Front-end:** 
+- **Front-end:** <br>
   ![HTML5](https://skillicons.dev/icons?i=html,css,js,typescript,tailwind,react,nextjs)
 
 - **Back-end:**
