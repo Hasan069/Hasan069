@@ -12,15 +12,15 @@
 - **Front-end:** <br><br>
   ![HTML5](https://skillicons.dev/icons?i=html,css,js,typescript,tailwind,react,nextjs)
 
-- **Back-end:**
+- **Back-end:** <br><br>
    ![Node.js](https://skillicons.dev/icons?i=nodejs,express,postman)
-- **Database:**
+- **Database:** <br><br>
   ![MongoDB](https://skillicons.dev/icons?i=mongo,mysql)
 
-- **Version Control:** 
+- **Version Control:** <br><br>
    ![Git](https://skillicons.dev/icons?i=git,github)
   
-- **Deployment:**
+- **Deployment:** <br><br>
    ![Vercel](https://skillicons.dev/icons?i=vercel)
 
 # GitHub Stats:
